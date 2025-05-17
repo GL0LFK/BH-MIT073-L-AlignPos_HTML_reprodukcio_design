@@ -1,4 +1,5 @@
-# BH-MIT073-L-Responsivity_HTML_reprodukcio_design_feladat
+# BH-MIT073-L-AlignmentPositioning_HTML_reprodukcio_design_feladat
+
 HTML reprodukció design feladat
 
 Készítsen másolatot a  már elkészült Önéletrajz HTML állományáról, melyet az első feladtban készített el és ezen dolgozzon!
